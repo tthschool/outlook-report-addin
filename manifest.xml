@@ -11,8 +11,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Outlook Report Checker"/>
   <Description DefaultValue="Check weekly report submissions"/>
-  <IconUrl DefaultValue="https://yourusername.github.io/outlook-report-addin/assets/icon-32.png"/>
-  <SupportUrl DefaultValue="https://yourusername.github.io/outlook-report-addin/"/>
+  <IconUrl DefaultValue="https://tthschool.github.io/outlook-report-addin/assets/icon-32.png"/>
+  <SupportUrl DefaultValue="https://tthschool.github.io/outlook-report-addin/"/>
 
   <Hosts>
     <Host Name="Mailbox"/>
@@ -27,7 +27,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://yourusername.github.io/outlook-report-addin/taskpane.html"/>
+        <SourceLocation DefaultValue="https://tthschool.github.io/outlook-report-addin/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -69,12 +69,12 @@
 
     <Resources>
       <bt:Images>
-        <bt:Image id="icon16" DefaultValue="https://yourusername.github.io/outlook-report-addin/assets/icon-16.png"/>
-        <bt:Image id="icon32" DefaultValue="https://yourusername.github.io/outlook-report-addin/assets/icon-32.png"/>
-        <bt:Image id="icon80" DefaultValue="https://yourusername.github.io/outlook-report-addin/assets/icon-80.png"/>
+        <bt:Image id="icon16" DefaultValue="https://tthschool.github.io/outlook-report-addin/assets/icon-16.png"/>
+        <bt:Image id="icon32" DefaultValue="https://tthschool.github.io/outlook-report-addin/assets/icon-32.png"/>
+        <bt:Image id="icon80" DefaultValue="https://tthschool.github.io/outlook-report-addin/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="taskpaneUrl" DefaultValue="https://yourusername.github.io/outlook-report-addin/taskpane.html"/>
+        <bt:Url id="taskpaneUrl" DefaultValue="https://tthschool.github.io/outlook-report-addin/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="groupLabel" DefaultValue="Báo cáo"/>
